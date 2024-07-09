@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be83ae19ba54c594294e56062093db5b, type: 3}
+  m_Name: EspadaInfo
+  m_EditorClassIdentifier: 
+  imagenObjeto: {fileID: 2800000, guid: 411adee752e45fc40a0e27fcbf6c80d6, type: 3}
+  modeloObjeto: {fileID: -5754084199372789682, guid: f38cd58615e266842a80fb8e91d319b6,
+    type: 3}
+  materialesObjeto:
+  - {fileID: 2100000, guid: 80d59a3016f22474d9695050a6705f94, type: 2}
+  - {fileID: 2100000, guid: 5adf7fd558390d6459948085e3e14cc8, type: 2}
+  - {fileID: 2100000, guid: 5b2bf4a144ffe1848b6395ba8e777ed0, type: 2}
+  nombre: Espada
+  id: 1
+  tipo: 1
+  cantidad: 1
+  Descripcion: Espada comun

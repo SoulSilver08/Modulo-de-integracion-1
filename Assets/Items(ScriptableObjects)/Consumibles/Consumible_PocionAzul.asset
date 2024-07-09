@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be83ae19ba54c594294e56062093db5b, type: 3}
+  m_Name: Consumible_PocionAzul
+  m_EditorClassIdentifier: 
+  imagenObjeto: {fileID: 2800000, guid: 55238b125de35e74cb4445cf9b864722, type: 3}
+  modeloObjeto: {fileID: -5754084199372789682, guid: 6f1cf95fa329ae24fb33514af4683d5c,
+    type: 3}
+  materialesObjeto:
+  - {fileID: -876546973899608171, guid: 6f1cf95fa329ae24fb33514af4683d5c, type: 3}
+  - {fileID: -6478536213147159724, guid: 6f1cf95fa329ae24fb33514af4683d5c, type: 3}
+  nombre: Pocion Azul
+  id: 3
+  tipo: 3
+  cantidad: 1
+  Descripcion: Pocion basica capaz de curar un poco de HP

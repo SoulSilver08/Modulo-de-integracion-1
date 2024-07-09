@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be83ae19ba54c594294e56062093db5b, type: 3}
+  m_Name: MitadDePlanosInfo
+  m_EditorClassIdentifier: 
+  imagenObjeto: {fileID: 2800000, guid: c0a58119d53f4734b8b3fbcfba1a9b2c, type: 3}
+  modeloObjeto: {fileID: 6697621763907784786, guid: 2ace1cea4423d724eb085d1f725d4f82,
+    type: 3}
+  materialesObjeto:
+  - {fileID: 1414384385212992312, guid: 2ace1cea4423d724eb085d1f725d4f82, type: 3}
+  nombre: Mitad de Mapa
+  id: 2
+  tipo: 4
+  cantidad: 1
+  Descripcion: La mitad de los planos de un templo, castillo, o alguna otra estructura.
